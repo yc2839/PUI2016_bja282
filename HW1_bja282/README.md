@@ -13,9 +13,9 @@ To complete this assignment, I followed the steps below:
 8. I uploaded the screenshots using the web platform and then began editing this README.md file, using a GitHub markdown cheat sheet for reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet. 
 9. Assignment 2 Complete - environment all set up!
 
-*Edited '.bashrc' file:*
+*Edited '.bashrc' file*
 ![Bashrc Variable and Alias](bashrc.png)
 
-*Proof of function: 'pui2016' alias:*
+*Proof of function: 'pui2016' alias*
 ![Proof of Function - pui2016 alias](pui2016-command.png)
 
