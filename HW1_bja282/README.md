@@ -3,7 +3,7 @@
 
 To complete this assignment, I followed the steps below: 
 
-1. I started by connecting to compute to experiment with declaring variables and aliases. 
+1. I started by connecting to compute, where I experimented with declaring variables and aliases. 
 2. After successfully declaring variables and aliases, I connected to the .bashrc script by using 'vim ~/.bashrc'. 
 3. I added my PUI2016 variable and pui2016 alias to the .bashrc file. (Screenshot below)
 4. I then tested the alias 'pui2016', which was successful. (Screenshot below)
