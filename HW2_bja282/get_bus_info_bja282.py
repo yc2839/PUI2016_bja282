@@ -2,6 +2,10 @@
 ## BJA282
 ## September 19, 2017
 ## Get Bus Info
+## Please note: I used Sebastian Bana Gutierrez's github responses to HW2 for reference and inspiration. 
+##(https://github.com/sbg389/PUI2016_sbg389/tree/master/HW2_sbg389)
+
+
 
 from __future__ import print_function
 import json
