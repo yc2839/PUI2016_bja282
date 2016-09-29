@@ -1,0 +1,16 @@
+#HW3
+###Ben Alpert (bja282)
+
+To complete this assignment, I followed the steps below: 
+
+1. I met in a work group with fellow classmates Sofiya Elyukin, Jonathan Geis, Sebastian Gutierrez, Fernando Fernandez and Scott Smith to 
+go over the assignments. We decided on a Null Hypothesis together for Problem 2. 
+2. I also met with Jonathan and Scott on Monday evening to work on Problem 2 together. 
+3. I completed Problem 2 using resources like StackExchange to explore how to index, re-index, and ascertain the day and hour of 
+the "starttime" field in the Citibike data. I added two columns to the table that marked rides at given start times as beginning and ending
+within the MTA's definition of Rush Hours and then added a third column assigning a value of "1" to rides during rush hours and "0" to those
+taking place in Off Peak Hours. I then graphed the results on a day-by-day basis using Professor Bianco's examples as the basis
+for my work. 
+4. After completing Problem 2, I began working on Problem 1, which we had reviewed during our group call. Unfortunatley, I 
+was not a natural with the Statistics material and plots, and did not finish in time. I will seek out either a TA or Professor Bianco 
+for help, as well as online resources to learn from, supplement, and review the material.
