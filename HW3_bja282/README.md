@@ -7,7 +7,7 @@ To complete this assignment, I followed the steps below:
 go over the assignments. We decided on a Null Hypothesis together for Problem 2. 
 2. I also met with Jonathan and Scott on Monday evening to work on Problem 2 together. 
 3. I completed Problem 2 using resources like StackExchange to explore how to index, re-index, and ascertain the day and hour of 
-the "starttime" field in the Citibike data, which I stored in a Pandas dataframe. I added two columns to the dataframe that marked rides at given start times as beginning and ending
+the "starttime" field in the Citibike data, which I stored in a Pandas dataframe. I added two columns to the dataframe that marked rides at given start times as starting at times 
 within the MTA's definition of Rush Hours and then added a third column assigning a value of "1" to rides during rush hours and "0" to those
 taking place in Off Peak Hours. I then graphed the results on a day-by-day basis using Professor Bianco's examples as the basis
 for my work. 
