@@ -1,4 +1,20 @@
+#HW4 - Assignment 1
+###Ben Alpert (bja282)
 
+<I>a. verify that their Null and alternative hypotheses are formulated correctly</I>
 
-$H_0$ : $\frac{W_{\mathrm{above45}}}{W_{\mathrm{45orbelow}}} &lt;= \frac{M_{\mathrm{above45}}}{M_{\mathrm{45orbelow}}}$
-$H_1$ : $\frac{W_{\mathrm{above45}}}{W_{\mathrm{45orbelow}}} &gt; \frac{M_{\mathrm{above45}}}{M_{\mathrm{45orbelow}}}$
+The null and alternative hypotheses were formulated correctly. However, the null and alternative hypotheses appear to calculate something slightly different from the initial idea. 
+If the idea is to explore whether or not men over 45 are less likely to ride citibike than women over 45, it does not 
+seem necessary to compare both of those riderships to the number of men and women aged 45 and less. 
+That population is not necessarily relevant to the question. 
+The Null and Alternative hypotheses appear to compare the likelihood of men and women over 45, 
+relative to their younger counterparts, to subscribe to Citibike and ride during the month of March 2015. 
+
+*IDEA:*
+Start with "Are men above age 45 less likely than women above age 45 to ride a citi bike?"
+
+*NULL HYPOTHESIS:*
+The ratio of man above age 45 to man age 45 or below riding a bike is the same or greater than the ratio of woman above age 45 to woman age 45 or below riding a bike.
+
+*ALTERNATIVE HYPOTHESIS:*
+The ratio of man above age 45 to man age 45 or below riding a bike is smaller than that of woman above age 45 to man age 45 or below riding a bike.
