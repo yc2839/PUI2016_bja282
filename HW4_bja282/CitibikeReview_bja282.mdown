@@ -10,7 +10,7 @@ That population is not necessarily relevant to the question.
 The Null and Alternative hypotheses appear to compare the likelihood of men and women over 45, 
 relative to their younger counterparts, to subscribe to Citibike and ride during the month of March 2015. 
 
-
+Chunqing Xu's Null and Alternative hypotheses below:
 
 *IDEA:*
 Start with "Are men above age 45 less likely than women above age 45 to ride a citi bike?"
@@ -23,7 +23,7 @@ The ratio of man above age 45 to man age 45 or below riding a bike is smaller th
 
 
 <h3><i>b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)</i></h3>
-The data generally supports the project. A signifcant number of riders' birth years are available in the table. However, birth year information, which permits assessment of riders based on age, is limited to full subscribers as opposed to all Citibike riders. Single-use customers are not required to volunteer their age or birth year when they rent a bike, so that data is missing from the table. Chunqing Xu dropped all single-time riders (marked as "customers" in the usertype column of the data set) from the assessment as a result. The remaining data still supports the analysis, but limits its scope. 
+The data generally supports the project. A signifcant number of riders' birth years are available in the table. However, birth year information, which permits assessment of riders based on age, is limited to full subscribers as opposed to all Citibike riders. Single-use customers are not required to volunteer their age or birth year when they rent a bike, so that data is missing from the table. I see that Chunqing dropped all single-time riders (marked as "customers" in the usertype column of the data set) from the assessment as a result. The remaining data still supports the analysis, but limits its scope to just Citibike subscribers. 
 
 <h3><i>c. Chose an appropriate test to test H0 given the type of data, and the question asked.</i></h3>
 
@@ -33,4 +33,4 @@ The chi-square test would be useful for assessing the difference between female 
 
 A t-test would also be helpful. You could look at difference between female and male riders over 45, as well as the ratios of female and male riders over 45 relative to younger riders, in terms of a variable of interest. In a general sense, you could use their gender as the basis and then assess based on age in order to create a test that reflected the null hypothesis. 
 
-An ANCOVA test might be interesting for determining whether another variable (such as time of day or day of the week) was impacting the number of riders over 45 for both genders, or the ratio of older male and female riders to younger riders.
+An ANOVA test might be interesting for determining whether another variable (such as time of day or day of the week) was impacting the number of riders over 45 for both genders, or the ratio of older male and female riders to younger riders.
