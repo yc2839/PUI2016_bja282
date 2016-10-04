@@ -1,0 +1,4 @@
+
+
+$H_0$ : $\frac{W_{\mathrm{above45}}}{W_{\mathrm{45orbelow}}} &lt;= \frac{M_{\mathrm{above45}}}{M_{\mathrm{45orbelow}}}$
+$H_1$ : $\frac{W_{\mathrm{above45}}}{W_{\mathrm{45orbelow}}} &gt; \frac{M_{\mathrm{above45}}}{M_{\mathrm{45orbelow}}}$
