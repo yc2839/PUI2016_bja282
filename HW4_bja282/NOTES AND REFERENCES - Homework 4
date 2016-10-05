@@ -1,0 +1,24 @@
+NOTES AND REFERENCES - Homework 4
+
+Assignment 4
+KS test- In statistics, the Kolmogorov–Smirnov test (K–S test or KS test) is a nonparametric <i>(not involving any assumptions as to the form or parameters of a frequency distribution)</i> test of the equality of continuous, one-dimensional probability distributions that can be used to compare a sample with a reference probability distribution (one-sample K–S test), or to compare two samples (two-sample K–S test).
+
+https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
+
+Pearson's Test - Pearson's chi-squared test (χ2) is a statistical test applied to sets of categorical data to evaluate how likely it is that any observed difference between the sets arose by chance. It is suitable for unpaired data from large samples.[1] It is the most widely used of many chi-squared tests (e.g., Yates, likelihood ratio, portmanteau test in time series, etc.) – statistical procedures whose results are evaluated by reference to the chi-squared distribution. Its properties were first investigated by Karl Pearson in 1900.[2] In contexts where it is important to improve a distinction between the test statistic and its distribution, names similar to Pearson χ-squared test or statistic are used.
+
+It tests a null hypothesis stating that the frequency distribution of certain events observed in a sample is consistent with a particular theoretical distribution. The events considered must be mutually exclusive and have total probability 1. A common case for this is where the events each cover an outcome of a categorical variable. A simple example is the hypothesis that an ordinary six-sided die is "fair" (i. e., all six outcomes are equally likely to occur).
+
+https://en.wikipedia.org/wiki/Pearson%27s_chi-squared_test
+
+Spearman's Test - In statistics, Spearman's rank correlation coefficient or Spearman's rho, named after Charles Spearman and often denoted by the Greek letter (rho) or as r s {\displaystyle r_{s}} , is a nonparametric measure of rank correlation (statistical dependence between the ranking of two variables).
+
+The Spearman correlation between two variables is equal to the Pearson correlation between the rank values of those two variables; while Pearson's correlation assesses linear relationships, Spearman's correlation assesses monotonic relationships (whether linear or not). If there are no repeated data values, a perfect Spearman correlation of +1 or −1 occurs when each of the variables is a perfect monotone function of the other.
+
+Intuitively, the Spearman correlation between two variables will be high when observations have a similar (or identical for a correlation of 1) rank (i.e. relative position label of the observations within the variable: 1st, 2nd, 3rd, etc.) between the two variables, and low when observations have a dissimilar (or fully opposed for a correlation of -1) rank between the two variables.
+
+Spearman's coefficient is appropriate for both continuous and discrete variables, including ordinal variables.[1][2] Both Spearman's ρ {\displaystyle \rho } \rho and Kendall's τ {\displaystyle \tau } \tau can be formulated as special cases of a more general correlation coefficient.
+
+https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient
+
+
