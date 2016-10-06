@@ -4,14 +4,9 @@
 
 ## Assignment 2: Literature Choices of Statistical Tests
 I worked on this assignment with Jonathan Geis. He chose the logistic regression for 
-differences between groups, and I chose a chi-square analysis. The research paper for the latter
-is *True versus False Parasite Interactions: A Robust Method to Take Risk Factors into Account and Its Application to Feline Viruses* by 
-    
-    Eléonore Hellard,
-    Dominique Pontier,
-    Frank Sauvage,
-    Hervé Poulet,
-    David Fouchet, and can be found at http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029618
+differences between groups, and I chose a chi-square analysis. The paper I read was titled *True versus False Parasite Interactions: A Robust Method to Take Risk Factors into Account and Its Application to Feline Viruses* by Eléonore Hellard, Dominique Pontier, Frank Sauvage, Hervé Poulet, David Fouchet, and can be found at http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029618
+
+Jonathan's article was titled *Acceptance of Home-Based Chlamydia Genital and Anorectal Testing Using Short Message Service (SMS) in Previously Tested Young People and Their Social and Sexual Networks* by Nicole H. T. M. Dukers-Muijrers,  Kevin A. T. M. Theunissen,  Petra T. Wolffs,  Gerjo Kok,  Christian J. P. A. Hoebe and can be found at http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133575
 
 | **Statistical Analyses      | IV(s)    | IV type(s)  | DV(s)  | DV type(s) | Control Var  | Control Var type |  Question to be answered | _H0_ | alpha | link to paper** |
 |:--------------:|:--------------:|:------:|:---------:|:-----------:|:-----------:|:------------:|:------------------:|:-------:|:---------:|:---------|
