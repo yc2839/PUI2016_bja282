@@ -18,5 +18,8 @@ Chi-Square Analysis  |  Number of Viruses/Parasites in Cats; | continuous | Diff
 Logistic Regression |  previously tested positive or negative to STI, sent SMS and reminders, sent extra test kit| categorical | requested a test kit, actually re-tested, had a peer tested | categorical | n/a | n/a | Does communication by SMS increase response rate?, How does previous test result affect response?, Will they get their peers tested? | SMS communication has no effect on specimens' response    |  n/a   | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133575 |
 
 
+## Assignment 3: 
+Worked with Sofiya and Jonathan to complete Assignment 3. Sofiya had previously worked with Mark and Sebastian on the file, which we reviewed together as a group and then completed. 
+
 ## Assignment 4:
 I worked with Jonathan and Sofiya to complete Assignment 4. I initially had some issues comparing the male and female riders because of null values in either dataframe, but eventually overcame that by creating separate dataframes for each, which I then used for correlation testing in the Pearson and Spearman tests. 
