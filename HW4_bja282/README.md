@@ -1,6 +1,6 @@
 # HW 4
 
-## Assignment 1: Review of Gregory Mayes Citibike Project Proposal
+## Assignment 1: Review of Xu Chunqing's Citibike data
 
 ## Assignment 2: Literature Choices of Statistical Tests
 I worked on this assignment with Jonathan Geis. He chose the logistic regression for 
